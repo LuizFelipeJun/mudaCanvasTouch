@@ -1,0 +1,26 @@
+#meuCanvas {
+   border: 5px double salmon;
+}
+
+body {
+   text-align: center;
+   background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffree4kwallpapers.com%2Fuploads%2Foriginals%2F2021%2F03%2F14%2Fforest-fox-wallpaper.jpg&f=1&nofb=1");
+   background-size: cover;
+}
+
+h1 {
+   background-color: rgba(255, 255, 255, 0.6);
+}
+
+span {
+   color: salmon;
+}
+
+button {
+   color: white;
+   background-color: salmon;
+   border-radius: 5px;
+   border: 1px double rgb(235, 108, 94);
+   box-shadow: 2px 3px rgba(235, 108, 94, 0.4);
+   cursor: pointer;
+}
